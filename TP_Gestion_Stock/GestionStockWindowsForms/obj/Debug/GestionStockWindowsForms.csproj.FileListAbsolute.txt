@@ -1,0 +1,16 @@
+C:\Users\garya\Documents\Developpment\Application\C#\TP_Gestion_Stock\GestionStockWindowsForms\bin\Debug\GestionStockWindowsForms.exe.config
+C:\Users\garya\Documents\Developpment\Application\C#\TP_Gestion_Stock\GestionStockWindowsForms\bin\Debug\GestionStockWindowsForms.exe
+C:\Users\garya\Documents\Developpment\Application\C#\TP_Gestion_Stock\GestionStockWindowsForms\bin\Debug\GestionStockWindowsForms.pdb
+C:\Users\garya\Documents\Developpment\Application\C#\TP_Gestion_Stock\GestionStockWindowsForms\obj\Debug\GestionStockWindowsForms.csprojAssemblyReference.cache
+C:\Users\garya\Documents\Developpment\Application\C#\TP_Gestion_Stock\GestionStockWindowsForms\obj\Debug\GestionStockWindowsForms.AjouterArticle.resources
+C:\Users\garya\Documents\Developpment\Application\C#\TP_Gestion_Stock\GestionStockWindowsForms\obj\Debug\GestionStockWindowsForms.Properties.Resources.resources
+C:\Users\garya\Documents\Developpment\Application\C#\TP_Gestion_Stock\GestionStockWindowsForms\obj\Debug\GestionStockWindowsForms.csproj.GenerateResource.cache
+C:\Users\garya\Documents\Developpment\Application\C#\TP_Gestion_Stock\GestionStockWindowsForms\obj\Debug\GestionStockWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\garya\Documents\Developpment\Application\C#\TP_Gestion_Stock\GestionStockWindowsForms\obj\Debug\GestionStockWindowsForms.exe
+C:\Users\garya\Documents\Developpment\Application\C#\TP_Gestion_Stock\GestionStockWindowsForms\obj\Debug\GestionStockWindowsForms.pdb
+C:\Users\garya\Documents\Developpment\Application\C#\TP_Gestion_Stock\GestionStockWindowsForms\obj\Debug\GestionStockWindowsForms.HomeApplication.resources
+C:\Users\garya\Documents\Developpment\Application\C#\TP_Gestion_Stock\GestionStockWindowsForms\obj\Debug\GestionStockWindowsForms.AfficherArticles.resources
+C:\Users\garya\Documents\Developpment\Application\C#\TP_Gestion_Stock\GestionStockWindowsForms\obj\Debug\GestionStockWindowsForms.SupprimerArticle.resources
+C:\Users\garya\Documents\Developpment\Application\C#\TP_Gestion_Stock\GestionStockWindowsForms\obj\Debug\GestionStockWindowsForms.ModifierArticleNom.resources
+C:\Users\garya\Documents\Developpment\Application\C#\TP_Gestion_Stock\GestionStockWindowsForms\obj\Debug\GestionStockWindowsForms.ModifierArticlePrice.resources
+C:\Users\garya\Documents\Developpment\Application\C#\TP_Gestion_Stock\GestionStockWindowsForms\obj\Debug\GestionStockWindowsForms.ModifierArticleNbrExemplaire.resources
