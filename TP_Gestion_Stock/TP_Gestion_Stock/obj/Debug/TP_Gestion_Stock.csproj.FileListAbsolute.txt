@@ -1,0 +1,7 @@
+C:\Users\garya\Documents\Developpment\Application\C#\TP_Gestion_Stock\TP_Gestion_Stock\bin\Debug\TP_Gestion_Stock.exe.config
+C:\Users\garya\Documents\Developpment\Application\C#\TP_Gestion_Stock\TP_Gestion_Stock\bin\Debug\TP_Gestion_Stock.exe
+C:\Users\garya\Documents\Developpment\Application\C#\TP_Gestion_Stock\TP_Gestion_Stock\bin\Debug\TP_Gestion_Stock.pdb
+C:\Users\garya\Documents\Developpment\Application\C#\TP_Gestion_Stock\TP_Gestion_Stock\obj\Debug\TP_Gestion_Stock.csprojAssemblyReference.cache
+C:\Users\garya\Documents\Developpment\Application\C#\TP_Gestion_Stock\TP_Gestion_Stock\obj\Debug\TP_Gestion_Stock.csproj.CoreCompileInputs.cache
+C:\Users\garya\Documents\Developpment\Application\C#\TP_Gestion_Stock\TP_Gestion_Stock\obj\Debug\TP_Gestion_Stock.exe
+C:\Users\garya\Documents\Developpment\Application\C#\TP_Gestion_Stock\TP_Gestion_Stock\obj\Debug\TP_Gestion_Stock.pdb
